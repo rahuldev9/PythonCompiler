@@ -7,7 +7,10 @@ const path = require("path");
 const { nanoid } = require("nanoid");
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: `${process.env.FRONTEND_URL}`, 
+  methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"], 
+}));
 app.use(bodyParser.json());
 
 const codeStorage = {}; 
