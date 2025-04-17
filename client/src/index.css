@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .keyword {
+    color:blue; /* Dark red (hex value) */
+    font-weight: bold;
+  }
+}
