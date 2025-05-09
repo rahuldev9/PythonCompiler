@@ -27,8 +27,8 @@ A modern web-based Python compiler built with **React** (frontend) and **Node.js
 
 ### 🎨 Code Run Share
 
-![Generated Image](assets/usage-image1)
-![Generated Image](assets/usage-image2)
+![Generated Image](assets/usage-image1.png)
+![Generated Image](assets/usage-image2.png)
 
 ### Installation
 
