@@ -28,5 +28,5 @@ A modern web-based Python compiler built with **React** (frontend) and **Node.js
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/python-compiler-web.git
+   git clone https://github.com/your-username/PythonCompiler.git
    cd python-compiler-web
