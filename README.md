@@ -6,7 +6,7 @@ A modern web-based Python compiler built with **React** (frontend) and **Node.js
 
 - 🧠 Write Python code in a beautiful, browser-based editor
 - ⚡ Execute and view results instantly
-- 🔗 Generate and share code snippets via social media
+- 🔗 Generate and share code via social media
 - 📱 Fully responsive UI for mobile and desktop
 - 📤 Easily deployable frontend and backend
 
