@@ -23,6 +23,12 @@ A modern web-based Python compiler built with **React** (frontend) and **Node.js
 - Node.js & npm
 - Python (installed on the server)
 - Git
+## 📸 Usage Screenshots
+
+### 🎨 Code Run Share
+
+![Generated Image](assets/usage-screenshot1.png)
+![Generated Image](assets/usage-screenshot2.png)
 
 ### Installation
 
