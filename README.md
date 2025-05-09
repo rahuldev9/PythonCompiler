@@ -1,4 +1,4 @@
-# 🐍 Python Compiler Web App
+# 🐍 CodePy
 
 A modern web-based Python compiler built with **React** (frontend) and **Node.js** (backend). This app allows users to write and run Python code directly in the browser — and share their code with friends on popular social media platforms.
 
